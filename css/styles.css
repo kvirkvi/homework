@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,255,255,1) 1%, rgba(0,212,255,1) 100%);
+}
+header div{
+    width: 1440px;
+    height: 150px;
+    background-color: #C4C4C4;
+    display: flex;
+}
+ul{
+    display:flex;
+    padding-left: 38px;
+    padding-top: 40px;
+    font-size: 20px;
+    
+}
+li{
+    padding: 12px;
+}
+ul li a{
+    color: black;
+}
+.slider{
+    width: 1440px;
+    height: 400px;
+    background-color: #3D3D3D;
+}
+.imigedv{
+    width: 450px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+}
+img{
+    width: 100%;
+}
+h2{
+    margin-top: 12px;
+    margin-left: 20px;
+}
+.pirveli_statia{
+
+    width: 450px;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+.pirveli_statia p{
+    width: 450px;
+    padding-bottom: 5px;
+}
+.p1{
+    margin-top: 10px;
+}
+.foto2{
+    width: 450px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.news{
+    display: flex;
+}
+.continue{
+    margin-top: 5px;
+    opacity: 0.5;
+}
+.feri1{
+    background-color: #FF9900;
+    width: 450px;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+.feri2{
+    background-color: #FFC700;
+    width: 450px;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+.feri3{
+    background-color: #FFE600;
+    width: 450px;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+.c{
+    margin-left: 20px;
+    clear: both;
+    width: 0 auto;
+    margin-top: 12px;
+}
+.colororange{
+    width: 1400px;
+    height: 150px;
+    background-color: #FF9900;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.meoregverdifoto{
+    width: 1400px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.textdiv{
+    background-color: #FF9900;
+    width: 1400px;
+    margin-left: 20px;
+    height: 450px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-right: 15px;
+}
+.colororange2{
+    width: 1400px;
+    height: 150px;
+    background-color: #FFC700;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.textdiv2{
+    background-color: #FFC700;
+    width: 1400px;
+    margin-left: 20px;
+    height: 450px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-right: 15px;
+}
+.textdiv3{
+    background-color: #FFE600;
+    width: 1400px;
+    margin-left: 20px;
+    height: 450px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-right: 15px;
+}
+.colororange3{
+    width: 1400px;
+    height: 150px;
+    background-color: #FFE600;
+    margin-left: 20px;
+    margin-right: 20px;
+}
